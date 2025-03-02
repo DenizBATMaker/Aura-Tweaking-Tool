@@ -19,5 +19,4 @@ Download Aura Tweaking Tool.
 Right-click on Aura Tweaker.bat & run it as admin, and almost everything else is automatic, except user-required inputs.
 Once you reach the Extra's section, simply click "Restart" to apply all tweaks!
 Help
-If you having issues or need help join our Discord Server!
-https://discord.gg/shMuzt9bcy
+If you having issues or need help join our [Discord Server](https://discord.gg/shMuzt9bcy)!!
